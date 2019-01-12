@@ -10,6 +10,7 @@ export class CheckOutComponent implements OnInit {
   constructor() { }
 
   ngOnInit() {
+  
   }
 
 }
